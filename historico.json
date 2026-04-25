@@ -1,0 +1,14 @@
+{
+    "nome": "Guilherme",
+    "saques": 0,
+    "saldo": 50.0,
+    "historico": [
+        "-Transferencia: R$2000.00",
+        "+Deposito: R$500.00",
+        "-Transferencia: R$250.00",
+        "+Deposito: R$200.00",
+        "+Deposito: R$200.00",
+        "+Deposito: R$200.00",
+        "-Saque: R$800.00"
+    ]
+}
