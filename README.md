@@ -1,18 +1,27 @@
-# Sistema Bancário com API
+# Sistema Bancário — Python
 
-Projeto backend desenvolvido em Python usando FastAPI.
+Sistema bancário via terminal desenvolvido em Python com orientação a objetos.
 
 ## Funcionalidades
-- Ver saldo
-- Transferir
-- Depositar
-- Sacar
-- Histórico
+
+- Criar e consultar contas
+- Depositar e sacar valores
+- Consultar saldo
+- Validação de operações
+
+## Como executar
+
+```bash
+git clone https://github.com/Gu1Dantas/sistema-bancario-com-api-em-python.git
+cd sistema-bancario-com-api-em-python
+python app.py
+```
 
 ## Tecnologias
-- Python
-- FastAPI
 
-## Como rodar
-```bash
-uvicorn api:app --reload
+- Python 3
+- POO
+
+## Autor
+
+**Guilherme Dantas** — [LinkedIn](https://www.linkedin.com/in/guilherme-dantas-541678273) · [GitHub](https://github.com/Gu1Dantas)
